@@ -39,3 +39,32 @@ Set initial language: Update the default language using the update_language func
 
 7. Main Program Cycle
 Start the program: call root.mainloop() to make the GUI active and responsive to user interactions.
+
+An example of how the program Works
+
+1 Select language:
+
+The user selects a language from the drop-down menu. The switch_language function updates the GUI text based on the language you choose.
+
+2 Save public IP:
+
+The user clicks on the "Save Public IP and Identifier" button. The program retrieves the public IP address, generates an identifier and saves it in a file.
+
+3 VirtualBox letöltése:
+
+A felhasználó rákattint a "Download VirtualBox (Windows)" gombra. A program letölti a VirtualBox telepítőt a megadott URL-ről és elmenti a Letöltések mappába.
+
+4 Download Debian ISO:
+
+The user clicks on the "Download Debian (ISO)" button. The program downloads the Debian ISO file and saves it in your Downloads folder.
+
+5 To delete a TEMP folder:
+
+The user clicks on the "Clear TEMP Folder" button. The contents of the TEMP folder are deleted and feedback is provided on successful deletion.
+
+6 To display system information:
+
+The user clicks on the "Show System Information" button. The program collects system information and displays it in a separate window.
+
+Summation
+The program is a multifunctional application that can perform various tasks, including downloads, file management, and displaying system information. Language selection provides multilingual support, so users can use their preferred language.
