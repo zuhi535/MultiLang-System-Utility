@@ -21,18 +21,20 @@ This application has several different features, such as saving a public IP addr
 ```bash
 git clone https://github.com/zuhi535/MultiLang-System-Utility-app.git
 ```
-3.Navigate to the project directory:
+3. Navigate to the project directory:
 ```bash
 cd MultiLang-System-Utility-app
 ```
-4.Install the required Python packages:
+4. Install the required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
-5.Run the application:
+5. Run the application:
 ```bash
 python app.py
 ```
+> [!IMPORTANT]
+> Before running, make sure that all necessary libraries are installed
 # Usage 
 
 ## Change language 
@@ -58,3 +60,7 @@ python app.py
 
 ## Show System Information 
 ***Click the "Show System Information" button to view the system information.***
+
+## System Requirements
+1. Python 3.6 or higher 
+2. Internet connection for downloads
