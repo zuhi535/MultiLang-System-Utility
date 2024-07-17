@@ -18,5 +18,5 @@ This application has several different features, such as saving a public IP addr
 1. Make sure Python and the required packages are installed on your machine.
 2. Download the repo using the 'git clone' command:
 
-'''bash
- git clone https://github.com/zuhi535/multifunctional-app.git
+```bash
+git clone https://github.com/zuhi535/MultiLang-System-Utility-app.git
