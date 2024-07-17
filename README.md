@@ -1,11 +1,11 @@
-Program működésének lépésről lépésre történő leírása
-1. Beállítások és Importálások
-Könyvtárak importálása:
-tkinter a GUI létrehozásához.
-messagebox, scrolledtext, és ttk a speciális GUI elemekhez.
-kéri a webes kérésekhez.
-datetime a dátum- és időkezeléshez.
-os, Path és shutil a fájl- és könyvtárkezeléshez.
-platform és psutil a rendszerinformációkhoz.
-GPUtil a GPU információkhoz.
-tabulate a táblázatos megjelenítéshez.
+Step-by-step description of how a program works
+1. Settings and Imports
+To import directories:
+tkinter to create the GUI.
+messagebox, scrolledtext, and ttk for special GUI elements.
+requests for web requests.
+datetime for date and time management.
+os, path, and shutil for file and directory management.
+Platform and PSUTIL for system information.
+GPUtil for GPU information.
+tabulate for tabulating.
