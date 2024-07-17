@@ -1,22 +1,22 @@
 # Multi-functional App
 
-Ez az alkalmazás több különböző funkcióval rendelkezik, mint például publikus IP cím mentése, VirtualBox, Debian és Kali Linux ISO letöltése, Visual Studio Code és Git telepítők letöltése, TEMP mappa törlése és rendszer információk megjelenítése.
+This application has several different features, such as saving a public IP address, downloading VirtualBox, Debian and Kali Linux ISO, downloading Visual Studio Code and Git installers, deleting a TEMP folder, and displaying system information.
 
-## Funkciók
+## Features
 
-- **Publikus IP cím mentése és azonosító**: Lekéri és elmenti a publikus IP címet és egyedi azonosítót egy fájlba.
-- **VirtualBox letöltése**: Letölti a VirtualBox Windows telepítőt.
-- **Debian ISO letöltése**: Letölti a Debian ISO fájlt.
-- **Kali Linux ISO letöltése**: Letölti a Kali Linux ISO fájlt.
-- **Visual Studio Code letöltése**: Letölti a Visual Studio Code telepítőt.
-- **Git letöltése**: Letölti a Git telepítőt.
-- **TEMP mappa törlése**: Törli a TEMP mappa tartalmát.
-- **Rendszer információk megjelenítése**: Megjeleníti a rendszer információkat egy külön ablakban.
+- **Save public IP address and ID**: Retrieves and saves the public IP address and unique identifier in a file.
+- **Download VirtualBox**: Downloads the VirtualBox Windows installer.
+- **Download Debian ISO**: Downloads the Debian ISO file.
+- **Download Kali Linux ISO**: Downloads the Kali Linux ISO file.
+- **Download Visual Studio Code**: Downloads the Visual Studio Code installer.
+- **Download Git**: Downloads the Git installer.
+- **Delete TEMP folder**: Deletes the contents of the TEMP folder.
+- **Show System Information**: Displays system information in a separate window.
 
-## Telepítés és futtatás
+## Install and run
 
-1. Győződj meg róla, hogy a Python és a szükséges csomagok telepítve vannak a gépeden.
-2. Töltsd le a repót a `git clone` parancs segítségével:
+1. Make sure Python and the required packages are installed on your machine.
+2. Download the repo using the 'git clone' command:
 
-   ```bash
-   git clone https://github.com/felhasznalonev/multifunctional-app.git
+'''bash
+ git clone https://github.com/felhasznalonev/multifunctional-app.git
