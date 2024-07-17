@@ -20,3 +20,16 @@ This application has several different features, such as saving a public IP addr
 
 ```bash
 git clone https://github.com/zuhi535/MultiLang-System-Utility-app.git
+```
+3.Navigate to the project directory:
+```bash
+cd MultiLang-System-Utility-app
+```
+4.Install the required Python packages:
+```bash
+pip install -r requirements.txt
+```
+5.Run the application:
+```bash
+python app.py
+```
