@@ -19,4 +19,4 @@ This application has several different features, such as saving a public IP addr
 2. Download the repo using the 'git clone' command:
 
 '''bash
- git clone https://github.com/felhasznalonev/multifunctional-app.git
+ git clone https://github.com/zuhi535/multifunctional-app.git
