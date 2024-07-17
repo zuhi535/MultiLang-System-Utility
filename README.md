@@ -3,13 +3,13 @@
                                                                                                         
 ------------------------|                                                                                                                                
 1. Settings and Imports |                                                                                                                                
-------------------------|                                                                                                                              |----------------------------------------------------------------------------------------------------------|
-  To import directories:                                                                                                                               | Summation:                                                                                               |
-  tkinter to create the GUI.                                                                                                                           |                                                                                                          |
-  messagebox, scrolledtext, and ttk for special GUI elements.                                                                                          | The program is a multifunctional application that can perform various tasks, including downloads,        |
-  requests for web requests.                                                                                                                           | file management, and displaying system information. Language selection provides multilingual support,    |
-  datetime for date and time management.                                                                                                               | so users can use their preferred language.                                                               |
-  os, path, and shutil for file and directory management.                                                                                              |----------------------------------------------------------------------------------------------------------|
+------------------------|                                                                                                                              
+  To import directories:                                                                                                                                                                                                                              
+  tkinter to create the GUI.                                                                                                                          
+  messagebox, scrolledtext, and ttk for special GUI elements.                                                                                          
+  requests for web requests.                                                                                                                           
+  datetime for date and time management.                                                                                                               
+  os, path, and shutil for file and directory management.                                                                                              
   Platform and PSUTIL for system information.
   GPUtil for GPU information.
   tabulate for tabulating.
