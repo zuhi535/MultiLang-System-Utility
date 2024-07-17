@@ -33,3 +33,28 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+# Usage 
+
+## Change language 
+
+***The application supports English, Hungarian, German and Russian languages. Select the desired language from the drop-down menu.***
+
+## Save public IP address 
+***Click the "Save Public IP and Identifier" button to save the public IP address and identifier.***
+
+## Downloads
+***-VirtualBox: Click the "Download VirtualBox (Windows)" button.***
+
+***-Debian ISO: Click the "Download Debian (ISO)" button..***
+
+***-Kali Linux ISO: Click the "Download Kali Linux (ISO)" button.***
+
+***-Visual Studio Code: Click the " Download Visual Studio Code" button. .***
+
+***-Git: Click the "Download Git" button.***
+
+## Clear TEMP Folder 
+***Click the "Clear TEMP Folder" button to clear the contents of the TEMP folder.***
+
+## Show System Information 
+***Click the "Show System Information" button to view the system information.***
