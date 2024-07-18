@@ -70,5 +70,5 @@ python app.py
 
 
 <p align="center">
-  <img src="./diagram-export-2024.-07.-19.-1_41_38.png" alt="Projekt logo" width="1200"/>
+  <img src="./diagram-export-2024.-07.-19.-1_41_38.png" alt="Projekt logo" width="1400"/>
 </p>
