@@ -64,3 +64,11 @@ python app.py
 ## System Requirements
 1. Python 3.6 or higher 
 2. Internet connection for downloads
+
+
+# Multi-functional App. Stepwise
+
+
+<p align="center">
+  <img src="./diagram-export-2024.-07.-19.-1_41_38.png" alt="Projekt logo" width="1200"/>
+</p>
