@@ -267,8 +267,6 @@ def clear_temp_folder():
     else:
         messagebox.showinfo("Sikeres törlés", "Sikeres törlés")  # Alapértelmezett üzenet, ha nincs megfelelő nyelvi beállítás
 
-
-# Function to display system information in a separate window
 # Function to display system information in a separate window
 def display_system_info_window(system_info):
     dialog = tk.Toplevel()
@@ -295,8 +293,6 @@ def display_system_info_window(system_info):
     dialog.grab_set()
     root.wait_window(dialog)
 
-
-# Function to show system information
 # Function to show system information
 def show_system_info():
     try:
@@ -372,7 +368,6 @@ Processor: {uname.processor} \n
     except Exception as e:
         messagebox.showerror("Error", f"An error occurred: {str(e)}")
 
-
 # Main window setup
 root = tk.Tk()
 root.title("Multi-functional App")
@@ -390,12 +385,7 @@ screen_height = root.winfo_screenheight()
 x = (screen_width - window_width) // 1
 y = (screen_height - window_height) // 1
 
-# Position main window in the center of the screen
-
-
-
 style = ttk.Style(root)
-# root.tk.call("source", "azure.tcl")  # This line is commented out to avoid the error
 style.theme_use("clam")  # Use a default theme
 
 frame_main = ttk.Frame(root, padding="10")
